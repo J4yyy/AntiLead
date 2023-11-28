@@ -1,0 +1,12 @@
+name: AntiLead
+version: '${project.version}'
+main: de.justin.antilead.AntiLead
+api-version: 1.19
+prefix: AntiLead
+authors: [ Jayy ]
+description: Plugin to prevent Right Click for Specific Lead Item
+website: https://shandalar.de
+
+commands:
+  petlead:
+    description: Bekomme eine Leine um Tiere zu fangen
